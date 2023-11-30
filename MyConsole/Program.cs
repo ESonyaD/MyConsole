@@ -12,6 +12,8 @@ namespace MyConsole
         {
             Console.WriteLine("Привет, Мир!");
             Console.WriteLine("Работа с git, используя VS 2019");
+             Console.WriteLine("Эта строка добавлена из github");
+             Console.WriteLine("и Эта строка добавлена из github");
         }
     }
 }
